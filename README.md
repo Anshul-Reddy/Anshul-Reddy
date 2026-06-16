@@ -52,6 +52,7 @@ AI-powered Study Management Platform
 ### 🏫 Student Management System
 Desktop application for managing student records.
 (Built in both console-based and GUI-based versions)
+
 **Tech Stack:** Python, Tkinter, MySQL
 
 **Features:**
