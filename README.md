@@ -19,6 +19,7 @@
 ### Web Development
 - HTML
 - CSS
+- Django
 - Flask
 - Jinja2
 
