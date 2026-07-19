@@ -1,8 +1,8 @@
 # Hi, I'm Anshul Reddy 👋
 
-🎓 BTech Student passionate about Software Development and Artificial Intelligence.
+🎓 BTech Student passionate about Software Development, Artificial Intelligence and Machine Learning.
 
-💻 Currently building real-world applications using Python, Flask, and MySQL.
+💻 Currently building real-world applications using Python, Numpy, Pandas, Machine Learning, Scikit-learn and Django.
 
 🚀 Learning by creating projects and solving practical problems.
 
@@ -31,7 +31,6 @@
 - GitHub
 - VS Code
 
-#### h
 ---
 
 ## 📂 Projects
